@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1652693817,
+      "filename": "lineage-18.1-20220516-UNOFFICIAL-crownlte.zip",
+      "id": "7bd5367351c09f24215d4afe94c53562f66a2954",
+      "romtype": "UNOFFICIAL",
+      "size": 622075467,
+      "url": "https://github.com/DumberThanUsual/OTA/releases/download/test/lineage-18.1-20220516-UNOFFICIAL-crownlte.zip",
+      "version": "18.1"
+    }
+  ]
+}
